@@ -9,6 +9,8 @@ const Feature = ({ title, text }) => (
     </div>
     <div className="cs__features-container_feature-text">
       <p>{text}</p>
+      <h1>this is A PR</h1>
+      <h2>this is second pr</h2>
     </div>
   </div>
 );
