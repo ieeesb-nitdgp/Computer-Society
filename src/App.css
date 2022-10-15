@@ -28,7 +28,7 @@ a{
         background:-ms-radial-gradient(circle at 3% 25%, rgba(0, 49, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
     
         /* global 92%+ browsers support */
-        background:radial-gradient(circle at 3% 25%, rgba(0, 49, 83, 1) 0%, rgba(4, 12, 24, 1) 100%); 
+        background:radial-gradient(circle at 3% 25%, rgb(175, 19, 192) 0%, rgba(4, 12, 24, 1) 100%); 
 }
 
 .gradient_text{
