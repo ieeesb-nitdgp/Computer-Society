@@ -1,6 +1,6 @@
 import React from 'react';
 import './footer.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 const Footer = () => (
 
@@ -32,7 +32,7 @@ const Footer = () => (
             <a href="https://in.linkedin.com/company/ieeesbnitdgp">LinkedIn</a>
           </li>
           <li className="list-group-item bg-transparent border-0 p-0 mb-2">
-            <a href="https://www.facebook.com/nitdgpieeesociety/" target="_blank">Facebook</a>
+            <a href="https://www.facebook.com/nitdgpieeesociety/">Facebook</a>
           </li>
           <li className="list-group-item bg-transparent border-0 p-0 mb-2">
             <a href="https://twitter.com/ieeesbnitd">Twitter</a>       
