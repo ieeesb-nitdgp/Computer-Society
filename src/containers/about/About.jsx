@@ -1,6 +1,6 @@
-import React from 'react';
-import Feature from '../../components/feature/Feature';
-import './about.css';
+import React from "react";
+import Feature from "../../components/feature/Feature";
+import "./about.css";
 
 const About = () => (
   <div className="cs__whatcs section__margin" id="wcs">
