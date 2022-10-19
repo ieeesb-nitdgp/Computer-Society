@@ -394,9 +394,14 @@ figure {
   width: 180px;
   border-radius: 8rem;
 }
-.one:hover:before {
+.female:hover:before {
   background-color: #af2a3c;
-  transform: scale(1.1);
+  transform: scale(1.2);
+}
+
+.male:hover:before{
+  background-color: blue;
+  transform: scale(1.2);
 }
 
 
