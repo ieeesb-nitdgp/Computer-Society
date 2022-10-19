@@ -265,6 +265,7 @@
 }
 
 .contact-section .social a:hover {
+  transform: scale(1.3);
   color: rgba(255, 255, 255, 0.5);
 }
 
