@@ -5,6 +5,7 @@ return (
   <section id="projects" classnamename="projects-section">
     <div classnamename="container">
 
+      //Featured Project Row
       <div classnamename="row align-items-center no-gutters mb-4 mb-lg-5">
         <div classnamename="col-xl-8 col-lg-7">
           <img classnamename="img-fluid mb-3 mb-lg-0" src="https://i.postimg.cc/hPzzpG0m/bg-masthead.jpg" alt=""/>
@@ -20,6 +21,7 @@ return (
         </div>
       </div>
 
+      //Project One Row 
       <div classnamename="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div classnamename="col-lg-6">
           <img classnamename="img-fluid" src="https://i.postimg.cc/Nj5PbSJF/birdseye.png" alt=""/>
@@ -39,7 +41,7 @@ return (
         </div>
       </div>
 
-      
+      //Project Two Row 
       <div classnamename="row justify-content-center no-gutters">
         <div classnamename="col-lg-6">
           <img classnamename="img-fluid" src="https://i.postimg.cc/W33DJmpB/nottsmall.png" alt=""/>
