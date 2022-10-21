@@ -1,24 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import navigation from '/components/navigation'
-import header from'./components/header'
-import about from './components/about'
-import project_section from './components/project_section'
-import signup from './components/signup'
-import contact from './components/contact'
-import footer from './components/footer'
+import Navigation from './components/Navigation'
+import Header from'./components/Header'
+import About from './components/About'
+import Project_section from './components/Project_section'
+import Signup from './components/Signup'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <div>
-  <header/>
-    <about/>
-    <project_section/>
-    <navigation/>
-    <signup/>
-    <contact/>
-    <footer/>
+  <Header/>
+    <About/>
+    <Project_section/>
+    <Navigation/>
+    <Signup/>
+    <Contact/>
+    <Footer/>
  </div>
     
   
