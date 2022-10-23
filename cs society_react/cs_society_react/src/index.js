@@ -9,10 +9,10 @@ import Signup from './components/Signup'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
  <div>
-  <Header/>
+    <Header/>
     <About/>
     <Project_section/>
     <Navigation/>
@@ -20,7 +20,4 @@ root.render(
     <Contact/>
     <Footer/>
  </div>
-    
-  
 );
-
