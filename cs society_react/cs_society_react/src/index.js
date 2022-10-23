@@ -12,10 +12,10 @@ import Footer from './components/Footer'
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
  <div>
+    <Navigation/>
     <Header/>
     <About/>
     <Project_section/>
-    <Navigation/>
     <Signup/>
     <Contact/>
     <Footer/>

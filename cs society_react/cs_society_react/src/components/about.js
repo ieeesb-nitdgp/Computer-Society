@@ -1,7 +1,7 @@
 import React from 'react';
 function about(){
 return(
-     //About Section
+    //  About Section
   <section id="about" className="about-section text-center">
     <div className="container">
       <div className="row">
@@ -23,13 +23,13 @@ return(
         </div>
       </div>
 
-  <br></br>
+  <br/><br/>
 
     </div>
-    //Headshots
+    {/* // Headshots */}
     <div className="container-fluid">
 
-      //row 1
+      {/* //row 1 */}
       <div className="row headshots">
 
         <div className="col-sm-3">
@@ -84,7 +84,7 @@ return(
 
       </div>
 
-      // Row 2
+      {/* // Row 2 */}
       <div className="row">
 
         <div className="col-sm-3">
@@ -139,7 +139,7 @@ return(
 
       </div>
 
-      //Row 3 
+      {/* //Row 3  */}
       <div className="row">
 
         <div className="col-sm-3">
@@ -194,7 +194,7 @@ return(
 
       </div>
 
-      //Row 4
+      {/* //Row 4 */}
       <div className="row">
 
         <div className="col-sm-3">
@@ -250,8 +250,7 @@ return(
       </div>
 
    </div> 
-//Container div 
-
+   <br/><br/>
   </section>
 
 );

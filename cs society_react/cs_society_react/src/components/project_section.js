@@ -2,10 +2,10 @@ import React from 'react';
 function project_section(){
 return (
      //Projects Section
-  <section id="projects" classNamename="projects-section">
+  <section id="projects" className="projects-section">
     <div className="container">
 
-      //Featured Project Row
+      {/* //Featured Project Row */}
       <div className="row align-items-center no-gutters mb-4 mb-lg-5">
         <div className="col-xl-8 col-lg-7">
           <img className="img-fluid mb-3 mb-lg-0" src="https://i.postimg.cc/hPzzpG0m/bg-masthead.jpg" alt=""/>
@@ -21,7 +21,7 @@ return (
         </div>
       </div>
 
-      //Project One Row 
+      {/* //Project One Row  */}
       <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div className="col-lg-6">
           <img className="img-fluid" src="https://i.postimg.cc/Nj5PbSJF/birdseye.png" alt=""/>
@@ -41,7 +41,7 @@ return (
         </div>
       </div>
 
-      //Project Two Row 
+      {/* //Project Two Row  */}
       <div className="row justify-content-center no-gutters">
         <div className="col-lg-6">
           <img className="img-fluid" src="https://i.postimg.cc/W33DJmpB/nottsmall.png" alt=""/>
