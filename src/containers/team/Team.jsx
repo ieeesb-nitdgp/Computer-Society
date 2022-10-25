@@ -30,7 +30,7 @@ const Team = () => (
                         <img className="card-img-top h-75" src={img1} alt="Arka Seth" />
                         <div className="card-body py-3 text-center pb-3">
                             <h5 className="mt-3">ARKA SETH</h5>
-                            <span>Chair</span>
+                            <span>-Chair-</span>
                         </div>
 
 
@@ -42,7 +42,7 @@ const Team = () => (
                         <img className="card-img-top h-75" src={img2} alt="Bishwajit Ghosh" />
                         <div className="card-body py-3 text-center pb-3">
                             <h5 className="mt-3">BISHWAJIT GHOSH</h5>
-                            <small>Vice Chair</small>
+                            <small>-Vice Chair-</small>
                         </div>
 
                     </div>
@@ -53,7 +53,7 @@ const Team = () => (
                         <img className="card-img-top h-75" src={img3} alt="Abhishek Basu" />
                         <div className="card-body py-3 text-center pb-3">
                             <h5 className="mt-3">ABHISHEK BASU</h5>
-                            <small>Secretary</small>
+                            <small>-Secretary-</small>
                         </div>
 
                     </div>
@@ -64,7 +64,7 @@ const Team = () => (
                         <img className="card-img-top h-75" src={img4} alt="Vaishali Barua" />
                         <div className="card-body py-3 text-center pb-3">
                             <h5 className="mt-3">VAISHALI BARUA</h5>
-                            <small>Treasurer</small>
+                            <small>-Treasurer-</small>
                         </div>
 
                     </div>
