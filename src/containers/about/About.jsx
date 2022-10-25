@@ -11,6 +11,7 @@ const About = () => (
       <Feature title="10+ Events" />
       <Feature title="30+ Members" />
       <Feature title="500+ Participants" />
+      <br />
     </div>
   </div>
 );
