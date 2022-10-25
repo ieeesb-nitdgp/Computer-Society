@@ -13,7 +13,7 @@ const featuresData = [
   },
   {
     title: 'Our Achievements',
-    text: 'Some of our achievements include......',
+    text: 'Some of our achievements include....',
   },
 ];
 
