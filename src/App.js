@@ -9,16 +9,15 @@ import Contact from "./components/contact";
 import Footer from "./components/footer";
 
 function App() {
-
   return (
     <>
-        <Navigation />
-        <Header />
-        <About />
-        <Project_section />
-        <Signup />
-        <Contact />
-        <Footer />
+      <Navigation />
+      <Header />
+      <About />
+      <Project_section />
+      <Signup />
+      <Contact />
+      <Footer />
     </>
   );
 }
